@@ -47,8 +47,7 @@ Here are some potential future enhancements for the work day scheduler:
 - Integrate with external calendar APIs for seamless synchronization with other calendar applications.
 
 ## Credits
-
-The work day scheduler is developed by [Your Name]. It utilizes the Day.js library for handling date and time operations.
+It utilizes the Day.js library for handling date and time operations.
 
 ## License
 
